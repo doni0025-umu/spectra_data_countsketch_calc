@@ -1,0 +1,10 @@
+[package]
+name = "spectra_data_countsketch_calc"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+csv = "1.4.0"
+faer = "0.24.0"
+indicatif = "0.18.3"
+ndarray = "0.17.2"
